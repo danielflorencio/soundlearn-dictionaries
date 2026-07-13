@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "updatedAt": "2026-07-13T15:09:26.799Z",
+  "packs": [
+    {
+      "lang": "en",
+      "version": "1",
+      "url": "https://github.com/danielflorencio/soundlearn-dictionaries/releases/download/v1/dict-en-v1.jsonl.gz",
+      "sizeBytes": 3576009,
+      "sha256": "dbd802c7f71a12435f1988ce54066bd5947abc8d887586d5b46f21ad4fb0b24f",
+      "entryCount": 146890,
+      "attribution": "Princeton University WordNet 3.0. WordNet is available under a BSD-style license. https://wordnet.princeton.edu/"
+    },
+    {
+      "lang": "ja",
+      "version": "1",
+      "url": "https://github.com/danielflorencio/soundlearn-dictionaries/releases/download/v1/dict-ja-v1.jsonl.gz",
+      "sizeBytes": 9630981,
+      "sha256": "b552f2d6418d9ca880835d28ad00b92ce08b49f55557d06b5655924682b00e99",
+      "entryCount": 463313,
+      "attribution": "JMDict / EDRDG (Jim Breen et al.), distributed via jmdict-simplified. See EDRDG licence. https://www.edrdg.org/jmdict/j_jmdict.html"
+    },
+    {
+      "lang": "zh",
+      "version": "1",
+      "url": "https://github.com/danielflorencio/soundlearn-dictionaries/releases/download/v1/dict-zh-v1.jsonl.gz",
+      "sizeBytes": 4414519,
+      "sha256": "3d8c7bf84ad0c1a1daf285f759167ea49a522be48e7a148dd331bf3d8c499dda",
+      "entryCount": 197541,
+      "attribution": "CC-CEDICT © MDBG and contributors (CC BY-SA 4.0). https://www.mdbg.net/chinese/dictionary?page=cc-cedict"
+    }
+  ]
+}
